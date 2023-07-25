@@ -8,17 +8,45 @@
 
 /* Begin PBXBuildFile section */
 		5E1430B82A37039600475E72 /* RatConnectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1430B72A37039600475E72 /* RatConnectApp.swift */; };
-		5E1430BA2A37039600475E72 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1430B92A37039600475E72 /* ContentView.swift */; };
 		5E1430BC2A37039700475E72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E1430BB2A37039700475E72 /* Assets.xcassets */; };
 		5E1430BF2A37039700475E72 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E1430BE2A37039700475E72 /* Preview Assets.xcassets */; };
+		5E1430CB2A37051300475E72 /* AppTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1430CA2A37051300475E72 /* AppTabView.swift */; };
+		5E1430CD2A37063E00475E72 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1430CC2A37063E00475E72 /* ColorExtension.swift */; };
+		5E1430D32A370BF400475E72 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1430D22A370BF400475E72 /* CustomButton.swift */; };
+		5E1430D52A370C1C00475E72 /* XDismissButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1430D42A370C1C00475E72 /* XDismissButton.swift */; };
+		5E1430D72A370C4100475E72 /* AvatarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1430D62A370C4100475E72 /* AvatarView.swift */; };
+		5E1430D92A3711C300475E72 /* logoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1430D82A3711C300475E72 /* logoView.swift */; };
+		5EAFA7AF2A63DB14006C783D /* SingleGymPreview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EAFA7AE2A63DB14006C783D /* SingleGymPreview.swift */; };
+		5EDA28F12A3713C0009F600E /* ExploreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EDA28F02A3713C0009F600E /* ExploreView.swift */; };
+		5EDA28F32A371454009F600E /* TopBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EDA28F22A371454009F600E /* TopBar.swift */; };
+		5EDA28F72A384C64009F600E /* AllGymView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EDA28F62A384C64009F600E /* AllGymView.swift */; };
+		5EDA28F92A385171009F600E /* ImageSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EDA28F82A385171009F600E /* ImageSlider.swift */; };
+		5EDA28FD2A39D5B8009F600E /* FirstViewWorkout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EDA28FC2A39D5B8009F600E /* FirstViewWorkout.swift */; };
+		5EDA28FF2A39D6D4009F600E /* WeekValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EDA28FE2A39D6D4009F600E /* WeekValue.swift */; };
+		5EDA29022A39D70B009F600E /* WeekStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EDA29012A39D70B009F600E /* WeekStore.swift */; };
+		5EDA29042A39D761009F600E /* CustomWeekHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EDA29032A39D761009F600E /* CustomWeekHeader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		5E1430B42A37039600475E72 /* RatConnect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RatConnect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E1430B72A37039600475E72 /* RatConnectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatConnectApp.swift; sourceTree = "<group>"; };
-		5E1430B92A37039600475E72 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5E1430BB2A37039700475E72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5E1430BE2A37039700475E72 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5E1430CA2A37051300475E72 /* AppTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTabView.swift; sourceTree = "<group>"; };
+		5E1430CC2A37063E00475E72 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
+		5E1430D22A370BF400475E72 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		5E1430D42A370C1C00475E72 /* XDismissButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XDismissButton.swift; sourceTree = "<group>"; };
+		5E1430D62A370C4100475E72 /* AvatarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvatarView.swift; sourceTree = "<group>"; };
+		5E1430D82A3711C300475E72 /* logoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = logoView.swift; sourceTree = "<group>"; };
+		5EAFA7AE2A63DB14006C783D /* SingleGymPreview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleGymPreview.swift; sourceTree = "<group>"; };
+		5EDA28F02A3713C0009F600E /* ExploreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreView.swift; sourceTree = "<group>"; };
+		5EDA28F22A371454009F600E /* TopBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopBar.swift; sourceTree = "<group>"; };
+		5EDA28F62A384C64009F600E /* AllGymView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllGymView.swift; sourceTree = "<group>"; };
+		5EDA28F82A385171009F600E /* ImageSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSlider.swift; sourceTree = "<group>"; };
+		5EDA28FC2A39D5B8009F600E /* FirstViewWorkout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewWorkout.swift; sourceTree = "<group>"; };
+		5EDA28FE2A39D6D4009F600E /* WeekValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeekValue.swift; sourceTree = "<group>"; };
+		5EDA29012A39D70B009F600E /* WeekStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeekStore.swift; sourceTree = "<group>"; };
+		5EDA29032A39D761009F600E /* CustomWeekHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomWeekHeader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +79,12 @@
 		5E1430B62A37039600475E72 /* RatConnect */ = {
 			isa = PBXGroup;
 			children = (
+				5E1430C72A3703ED00475E72 /* Extensions */,
+				5E1430C52A3703CE00475E72 /* Utilities */,
+				5E1430C62A3703E200475E72 /* Model */,
+				5EDA29002A39D6F4009F600E /* ViewModel */,
+				5E1430C82A3703FA00475E72 /* Views */,
 				5E1430B72A37039600475E72 /* RatConnectApp.swift */,
-				5E1430B92A37039600475E72 /* ContentView.swift */,
 				5E1430BB2A37039700475E72 /* Assets.xcassets */,
 				5E1430BD2A37039700475E72 /* Preview Content */,
 			);
@@ -65,6 +97,112 @@
 				5E1430BE2A37039700475E72 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		5E1430C52A3703CE00475E72 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				5E1430C92A3704E300475E72 /* Managers */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		5E1430C62A3703E200475E72 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				5EDA28FE2A39D6D4009F600E /* WeekValue.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		5E1430C72A3703ED00475E72 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				5E1430CC2A37063E00475E72 /* ColorExtension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		5E1430C82A3703FA00475E72 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				5E1430D02A370B6F00475E72 /* CustomViews */,
+				5E1430CE2A370B5000475E72 /* Cells */,
+				5E1430CF2A370B5E00475E72 /* Screens */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		5E1430C92A3704E300475E72 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		5E1430CE2A370B5000475E72 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		5E1430CF2A370B5E00475E72 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				5EEA2E262A6FBB8D002C31E6 /* Workout */,
+				5EEA2E252A6FBB6D002C31E6 /* Gym */,
+				5E1430CA2A37051300475E72 /* AppTabView.swift */,
+				5EDA28F02A3713C0009F600E /* ExploreView.swift */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		5E1430D02A370B6F00475E72 /* CustomViews */ = {
+			isa = PBXGroup;
+			children = (
+				5E1430D12A370BCA00475E72 /* Buttons */,
+				5E1430D62A370C4100475E72 /* AvatarView.swift */,
+				5E1430D82A3711C300475E72 /* logoView.swift */,
+				5EDA28F22A371454009F600E /* TopBar.swift */,
+				5EDA28F82A385171009F600E /* ImageSlider.swift */,
+				5EDA29032A39D761009F600E /* CustomWeekHeader.swift */,
+			);
+			path = CustomViews;
+			sourceTree = "<group>";
+		};
+		5E1430D12A370BCA00475E72 /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				5E1430D22A370BF400475E72 /* CustomButton.swift */,
+				5E1430D42A370C1C00475E72 /* XDismissButton.swift */,
+			);
+			path = Buttons;
+			sourceTree = "<group>";
+		};
+		5EDA29002A39D6F4009F600E /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				5EDA29012A39D70B009F600E /* WeekStore.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		5EEA2E252A6FBB6D002C31E6 /* Gym */ = {
+			isa = PBXGroup;
+			children = (
+				5EDA28F62A384C64009F600E /* AllGymView.swift */,
+				5EAFA7AE2A63DB14006C783D /* SingleGymPreview.swift */,
+			);
+			path = Gym;
+			sourceTree = "<group>";
+		};
+		5EEA2E262A6FBB8D002C31E6 /* Workout */ = {
+			isa = PBXGroup;
+			children = (
+				5EDA28FC2A39D5B8009F600E /* FirstViewWorkout.swift */,
+			);
+			path = Workout;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +275,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5E1430BA2A37039600475E72 /* ContentView.swift in Sources */,
+				5E1430D32A370BF400475E72 /* CustomButton.swift in Sources */,
+				5EDA28F32A371454009F600E /* TopBar.swift in Sources */,
+				5EAFA7AF2A63DB14006C783D /* SingleGymPreview.swift in Sources */,
+				5EDA28F92A385171009F600E /* ImageSlider.swift in Sources */,
+				5EDA29022A39D70B009F600E /* WeekStore.swift in Sources */,
+				5EDA28FF2A39D6D4009F600E /* WeekValue.swift in Sources */,
+				5E1430D72A370C4100475E72 /* AvatarView.swift in Sources */,
+				5E1430CD2A37063E00475E72 /* ColorExtension.swift in Sources */,
+				5E1430CB2A37051300475E72 /* AppTabView.swift in Sources */,
 				5E1430B82A37039600475E72 /* RatConnectApp.swift in Sources */,
+				5E1430D92A3711C300475E72 /* logoView.swift in Sources */,
+				5EDA29042A39D761009F600E /* CustomWeekHeader.swift in Sources */,
+				5EDA28F72A384C64009F600E /* AllGymView.swift in Sources */,
+				5EDA28F12A3713C0009F600E /* ExploreView.swift in Sources */,
+				5E1430D52A370C1C00475E72 /* XDismissButton.swift in Sources */,
+				5EDA28FD2A39D5B8009F600E /* FirstViewWorkout.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
